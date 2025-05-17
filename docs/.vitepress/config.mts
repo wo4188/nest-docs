@@ -53,7 +53,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/LsyWeb' }
+      { icon: 'github', link: 'https://github.com/wo4188/nest-docs' }
     ],
     
     // 文章翻页
